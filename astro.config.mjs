@@ -34,6 +34,7 @@ export default defineConfig({
 			nesting: true,
 		}),
 		swup({
+			// test
 			theme: false,
 			animationClass: "transition-swup-", // see https://swup.js.org/options/#animationselector
 			// the default value `transition-` cause transition delay
